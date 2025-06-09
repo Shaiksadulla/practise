@@ -1,2 +1,2 @@
-# git-course
-this is my learning git course 
+# FIRST
+this is the first push
